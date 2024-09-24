@@ -1,0 +1,4 @@
+Always follow Flutter best practices.
+The DreamsDoces APP will always be acessed from a mobile webbrowser.
+Follow Flutter docs.
+Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation.dartprefer_const_constructors. - You should always adjust the const when you see it can be improved for performance.
